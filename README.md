@@ -21,6 +21,7 @@ Also I currently am:
     * Distributed Systems
     * Frontend 😱
 * 📫 How to reach me:
-    * LinkedIn: [@imuzairsaeed](https://www.linkedin.com/in/iamuzairsaeed/)
+    * Twitter: [@uzairsaeed_](https://twitter.com/uzairsaeed_)   
+    * LinkedIn: [Uzair Saeed](https://www.linkedin.com/in/iamuzairsaeed/)
     * Email: im Dot uzairsaeed AT gmail DOT com
 * 😄 Pronouns: He/Him
