@@ -12,7 +12,7 @@ Also I currently am:
 ### About Me
 
 * 🔭 I’m currently working on
-    * Building world class medical related system for [Number 53 Ltd]
+    * Building world class medical related system for Number 53 Ltd
     * Counter Strike gaming skill 😄 
 * 🌱 I’m currently learning
     * Terraform
